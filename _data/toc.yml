@@ -21,6 +21,10 @@
 #
 # See the links below for an example.
 
+# New demo page added
+- title: Sample page
+  url: /Untitled
+
 # Top-level page
 - title: Home
   url: /intro
