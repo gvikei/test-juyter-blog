@@ -1,8 +1,8 @@
 ---
 title: 'Home'
 prev_page:
-  url: 
-  title: ''
+  url: /Untitled
+  title: 'Sample page'
 next_page:
   url: /https://github.com/jupyter/jupyter-book
   title: 'GitHub repository'

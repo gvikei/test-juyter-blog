@@ -1,5 +1,5 @@
 ---
-interact_link: content/D:\Personal\jupyterblog\testbook\content\features/notebooks.ipynb
+interact_link: content/features/notebooks.ipynb
 kernel_name: python3
 title: 'Jupyter notebooks'
 prev_page:
@@ -85,7 +85,7 @@ ax.legend(custom_lines, ['Cold', 'Medium', 'Hot']);
 
 
 {:.output .output_png}
-![png](D%3A/Personal/jupyterblog/testbook/_build/images/features/notebooks_2_0.png)
+![png](../images/features/notebooks_2_0.png)
 
 
 
@@ -107,7 +107,7 @@ which you can [see in the original notebook](https://github.com/jupyter/jupyter-
 
 
 {:.output .output_png}
-![png](D%3A/Personal/jupyterblog/testbook/_build/images/features/notebooks_6_0.png)
+![png](../images/features/notebooks_6_0.png)
 
 
 

@@ -1,7 +1,7 @@
 ---
 redirect_from:
   - "/untitled"
-interact_link: content/D:\Personal\jupyterblog\testbook\content\Untitled.ipynb
+interact_link: content/Untitled.ipynb
 kernel_name: python3
 title: 'Sample page'
 prev_page:
